@@ -1,0 +1,107 @@
+20.04.2020 21:47:19|> createPlate started...
+20.04.2020 21:47:19|> load linetype 'HIDDEN'...
+20.04.2020 21:47:19|> Linetype 'HIDDEN' loaded.
+20.04.2020 21:47:19|> load linetype 'DASHDOT'...
+20.04.2020 21:47:19|> Linetype 'DASHDOT' loaded.
+20.04.2020 21:47:19|> load linetype 'CENTER'...
+20.04.2020 21:47:19|> Linetype 'CENTER' loaded.
+20.04.2020 21:47:34|> load 'D:\8-CAD\template\jajo\MyProjectPlateZip\MyProjectPlate\MyProjectPlate\ProjectPlate.xlsx' ...
+20.04.2020 21:47:37|> Version 'Plate Data, Version 1.0' found ...
+20.04.2020 21:47:37|Length        =    1000.00
+20.04.2020 21:47:37|Width         =     700.00
+20.04.2020 21:47:37|Diameter      =      50.00
+20.04.2020 21:47:37|Thickness     =      50.00
+20.04.2020 21:47:37|L1            =     200.00
+20.04.2020 21:47:37|L2            =     300.00
+20.04.2020 21:47:37|L3            =     150.00
+20.04.2020 21:47:37|L4            =     200.00
+20.04.2020 21:47:37|L5            =     150.00
+20.04.2020 21:47:37|L6            =     350.00
+20.04.2020 21:47:37|L7            =     250.00
+20.04.2020 21:47:37|L8            =     350.00
+20.04.2020 21:47:37|L9            =     400.00
+20.04.2020 21:47:37|L10           =     200.00
+20.04.2020 21:47:37|L11           =     100.00
+20.04.2020 21:47:37|E             =     100.00
+20.04.2020 21:47:37|Dim Scaling  =     200.00
+20.04.2020 21:47:37|Line Spacing =      50.00
+20.04.2020 21:47:37|View Spacing =     500.00
+20.04.2020 21:47:37|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:37|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:37|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:37|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:37|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:37|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:38|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:38|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:38|> store entity: Autodesk.AutoCAD.DatabaseServices.RotatedDimension
+20.04.2020 21:47:38|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:38|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:38|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:38|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:38|> store entity: Autodesk.AutoCAD.DatabaseServices.RotatedDimension
+20.04.2020 21:47:39|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:39|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:39|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:39|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:39|> store entity: Autodesk.AutoCAD.DatabaseServices.RotatedDimension
+20.04.2020 21:47:39|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:39|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:39|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:39|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:40|> store entity: Autodesk.AutoCAD.DatabaseServices.RotatedDimension
+20.04.2020 21:47:40|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:40|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:40|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:40|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:40|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:40|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:40|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:41|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:41|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:41|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:41|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:41|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:41|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:41|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:41|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:41|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:42|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:42|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:42|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:42|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:42|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:42|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:42|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:42|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:42|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:43|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:43|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:43|> store entity: Autodesk.AutoCAD.DatabaseServices.Circle
+20.04.2020 21:47:43|> store entity: Autodesk.AutoCAD.DatabaseServices.Circle
+20.04.2020 21:47:43|> store entity: Autodesk.AutoCAD.DatabaseServices.Circle
+20.04.2020 21:47:43|> store entity: Autodesk.AutoCAD.DatabaseServices.Circle
+20.04.2020 21:47:43|> store entity: Autodesk.AutoCAD.DatabaseServices.RadialDimension
+20.04.2020 21:47:43|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:43|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:44|> store entity: Autodesk.AutoCAD.DatabaseServices.RadialDimension
+20.04.2020 21:47:44|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:44|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:44|> store entity: Autodesk.AutoCAD.DatabaseServices.RadialDimension
+20.04.2020 21:47:44|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:44|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:44|> store entity: Autodesk.AutoCAD.DatabaseServices.RadialDimension
+20.04.2020 21:47:44|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:44|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:45|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:46|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
+20.04.2020 21:47:46|> store entity: Autodesk.AutoCAD.DatabaseServices.Line
